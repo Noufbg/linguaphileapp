@@ -1,5 +1,5 @@
 # linguaphileapp
-![image](https://user-images.githubusercontent.com/116811414/212725892-d3bde69a-1080-449e-8bf3-48688ccd16f1.png)
+![Pasted Image- Jan 16, 2023 - 7-28-52pm](https://user-images.githubusercontent.com/116811414/212726095-29b566b9-050d-47ca-b23c-6093179bd880.png)
 
 Big idea:
 Inclusion
