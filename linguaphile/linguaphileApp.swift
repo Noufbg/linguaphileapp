@@ -6,12 +6,14 @@
 //
 
 import SwiftUI
-
+final class commentCardc: ObservableObject {
+    @Published var commentCArd: String = ""
+}
 @main
 struct linguaphileApp: App {
+    @StateObject var currentcomment = commentCardc()
     var body: some Scene {
         WindowGroup {
-            ContentView()
-        }
+            splashscreen() .environmentObject(currentcomment)        }
     }
 }

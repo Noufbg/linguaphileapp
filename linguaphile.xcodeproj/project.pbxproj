@@ -14,6 +14,12 @@
 		C4BFBC16296F02E4003D44D0 /* linguaphileTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BFBC15296F02E4003D44D0 /* linguaphileTests.swift */; };
 		C4BFBC20296F02E4003D44D0 /* linguaphileUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BFBC1F296F02E4003D44D0 /* linguaphileUITests.swift */; };
 		C4BFBC22296F02E4003D44D0 /* linguaphileUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BFBC21296F02E4003D44D0 /* linguaphileUITestsLaunchTests.swift */; };
+		C4BFBC2F296F035A003D44D0 /* comment.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BFBC2E296F035A003D44D0 /* comment.swift */; };
+		C4BFBC33296F6E95003D44D0 /* DropdownOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BFBC32296F6E95003D44D0 /* DropdownOption.swift */; };
+		C4BFBC3B29703A6D003D44D0 /* testView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BFBC3A29703A6D003D44D0 /* testView.swift */; };
+		C4BFBC3F29730CF4003D44D0 /* contentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BFBC3E29730CF4003D44D0 /* contentView.swift */; };
+		C4BFBC4129744793003D44D0 /* backgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BFBC4029744793003D44D0 /* backgroundView.swift */; };
+		C4BFBC4329744B87003D44D0 /* splashscreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4BFBC4229744B87003D44D0 /* splashscreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +50,12 @@
 		C4BFBC1B296F02E4003D44D0 /* linguaphileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = linguaphileUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4BFBC1F296F02E4003D44D0 /* linguaphileUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = linguaphileUITests.swift; sourceTree = "<group>"; };
 		C4BFBC21296F02E4003D44D0 /* linguaphileUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = linguaphileUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C4BFBC2E296F035A003D44D0 /* comment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = comment.swift; sourceTree = "<group>"; };
+		C4BFBC32296F6E95003D44D0 /* DropdownOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropdownOption.swift; sourceTree = "<group>"; };
+		C4BFBC3A29703A6D003D44D0 /* testView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testView.swift; sourceTree = "<group>"; };
+		C4BFBC3E29730CF4003D44D0 /* contentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = contentView.swift; path = ../contentView.swift; sourceTree = "<group>"; };
+		C4BFBC4029744793003D44D0 /* backgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backgroundView.swift; sourceTree = "<group>"; };
+		C4BFBC4229744B87003D44D0 /* splashscreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = splashscreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +107,13 @@
 			isa = PBXGroup;
 			children = (
 				C4BFBC04296F02E4003D44D0 /* linguaphileApp.swift */,
+				C4BFBC4229744B87003D44D0 /* splashscreen.swift */,
+				C4BFBC32296F6E95003D44D0 /* DropdownOption.swift */,
+				C4BFBC3A29703A6D003D44D0 /* testView.swift */,
 				C4BFBC06296F02E4003D44D0 /* ContentView.swift */,
+				C4BFBC2E296F035A003D44D0 /* comment.swift */,
+				C4BFBC4029744793003D44D0 /* backgroundView.swift */,
+				C4BFBC3E29730CF4003D44D0 /* contentView.swift */,
 				C4BFBC08296F02E4003D44D0 /* Assets.xcassets */,
 				C4BFBC0A296F02E4003D44D0 /* Preview Content */,
 			);
@@ -258,7 +276,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4BFBC07296F02E4003D44D0 /* ContentView.swift in Sources */,
+				C4BFBC3B29703A6D003D44D0 /* testView.swift in Sources */,
+				C4BFBC4329744B87003D44D0 /* splashscreen.swift in Sources */,
+				C4BFBC4129744793003D44D0 /* backgroundView.swift in Sources */,
 				C4BFBC05296F02E4003D44D0 /* linguaphileApp.swift in Sources */,
+				C4BFBC3F29730CF4003D44D0 /* contentView.swift in Sources */,
+				C4BFBC2F296F035A003D44D0 /* comment.swift in Sources */,
+				C4BFBC33296F6E95003D44D0 /* DropdownOption.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
