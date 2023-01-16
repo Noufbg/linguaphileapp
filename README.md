@@ -1,4 +1,5 @@
 # linguaphileapp
+![image](https://user-images.githubusercontent.com/116811414/212725892-d3bde69a-1080-449e-8bf3-48688ccd16f1.png)
 
 Big idea:
 Inclusion
