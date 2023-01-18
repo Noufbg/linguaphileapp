@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/116811414/212726747-c8413145-efd0-4a3d-8dd8-ba9a62e5c245.png)
 
 
-Big idea:
+##Big idea:
 
 Inclusion
 
