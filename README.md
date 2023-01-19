@@ -3,6 +3,11 @@
 ![image](https://user-images.githubusercontent.com/116811414/213464227-a778b8de-e888-4034-aac9-148066c55b26.png)
 
 
+# App description:
+
+>Linguaphile, a language learning app that uses flashcards to help users memorize vocabulary in a variety of languages. The app is designed to make language learning easy and fun.
+With Linguaphile, users can learn a new language at their own pace, and practice anytime and anywhere, even when offline.
+
 # Big idea:
 
 >Inclusion
@@ -22,10 +27,6 @@
 
 >An app that provides a fun and an easy way for who want to learn new language by flash cards 
 
-## App description:
-
->Linguaphile, a language learning app that uses flashcards to help users memorize vocabulary in a variety of languages. The app is designed to make language learning easy and fun.
-With Linguaphile, users can learn a new language at their own pace, and practice anytime and anywhere, even when offline.
 
 ## Technologies used:
 
