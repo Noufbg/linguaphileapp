@@ -1,5 +1,7 @@
 # linguaphileapp
-![image](https://user-images.githubusercontent.com/116811414/212726747-c8413145-efd0-4a3d-8dd8-ba9a62e5c245.png)
+
+![image](https://user-images.githubusercontent.com/116811414/213464227-a778b8de-e888-4034-aac9-148066c55b26.png)
+
 
 # Big idea:
 
@@ -12,6 +14,9 @@
 ## Solution concept:
 
 >a platform for people who want to learn new language at their own pace and speed and they they learn using flash cards and have it in their phone offline too
+
+![image](https://user-images.githubusercontent.com/116811414/213464586-c7311aa9-8787-4b3e-b9e8-42498e7e84ef.png)
+
 
 ## App statement:
 
@@ -27,6 +32,7 @@ With Linguaphile, users can learn a new language at their own pace, and practice
 >Swift 
 Uikit
 Cloud data 
+
 
 <img width="996" alt="Screenshot 1444-06-19 at 3 36 08 PM" src="https://user-images.githubusercontent.com/116811414/212725611-54742704-9656-446a-9c03-f807013e5dbb.png">
 
