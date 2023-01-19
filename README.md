@@ -16,6 +16,11 @@ With Linguaphile, users can learn a new language at their own pace, and practice
 
 >Make an inclusive solution that will help everyone with learning a new language
 
+# App statement:
+
+>An app that provides a fun and an easy way for who want to learn new language by flash cards 
+
+
 ## Solution concept:
 
 >a platform for people who want to learn new language at their own pace and speed and they they learn using flash cards and have it in their phone offline too
@@ -23,19 +28,14 @@ With Linguaphile, users can learn a new language at their own pace, and practice
 ![image](https://user-images.githubusercontent.com/116811414/213464586-c7311aa9-8787-4b3e-b9e8-42498e7e84ef.png)
 
 
-## App statement:
-
->An app that provides a fun and an easy way for who want to learn new language by flash cards 
-
-
 ## Technologies used:
+>
+>- Swift
+>* Uikit
+>+ Cloud data
 
->Swift 
-Uikit
-Cloud data 
 
 ## Challenge summary
 > An application that helps people with learning a new language in their own pace and speed , even if its offline!
 <img width="996" alt="Screenshot 1444-06-19 at 3 36 08 PM" src="https://user-images.githubusercontent.com/116811414/212725611-54742704-9656-446a-9c03-f807013e5dbb.png">
 
-## Challenge summary
