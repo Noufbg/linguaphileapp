@@ -43,6 +43,8 @@ With Linguaphile, users can learn a new language at their own pace, and practice
 
 
 ## Video demo
+The video demo showcases an application that helps users learn and add new words in a new language. 
+Select the language you want to learn. Once you add the language and select it, you are presented categories and you can add new words.
 
 https://user-images.githubusercontent.com/116811414/214484834-11158898-2e34-4908-b804-90685c167ee2.mp4
 
